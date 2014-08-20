@@ -1,0 +1,12 @@
+#!/usr/bin/python
+
+import argparse
+from PythonTemplate import Model
+
+# get inputs
+parser = argparse.ArgumentParser(
+    description=('Does a thing with PythonTemplate.'))
+args = parser.parse_args()
+
+# do thing
+Model.doThing()
