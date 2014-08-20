@@ -17,13 +17,14 @@ sudo python setup.py install
 The install step above installs `pytemplate` into your system. You should be able to call this directly from a shell:
 
 ```bash
-pyscript
+pytemplate
 ```
 
 Add the `-h` flag to see full usage information:
 
 ```bash
-$ pyscript -h
+pytemplate -h
+
 # usage: pytemplate [-h]
 #
 # Does a thing with PythonTemplate.
