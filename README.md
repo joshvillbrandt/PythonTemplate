@@ -23,6 +23,13 @@ pyscript
 Add the `-h` flag to see full usage information:
 
 ```bash
+$ pyscript -h
+# usage: pytemplate [-h]
+#
+# Does a thing with PythonTemplate.
+#
+# optional arguments:
+#   -h, --help  show this help message and exit
 ```
 
 ## API
