@@ -52,7 +52,7 @@ The `PythonTemplate` library provides these functions:
 Run the test suite like this:
 
 ```bash
-sudo tox
+tox
 ```
 
 ## Change Log
