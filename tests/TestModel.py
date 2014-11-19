@@ -5,7 +5,7 @@ from PythonTemplate import Model
 
 
 class TestModel(unittest.TestCase):
-    def setUp(self, use_auth=False):
+    def setUp(self):
         # TODO
         pass
 
